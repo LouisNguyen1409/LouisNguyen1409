@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nhat Nguyen</h1>
 <h3 align="center">Computer Science @ UNSW</h3>
 
-- 🌱 I’m currently learning **I am a second-year university student at the University of New South Wales.**
+- 🧠 I'm learning **BACHELOR OF COMPUTER SCIENCE (ARTIFICIAL INTELLIGENCE)**
+
+- 🌍 I'm based in **Sydney, Australia**
+
+- 📫 How to reach me **ndmn004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=louisnguyen1409&show_icons=true&theme=dracula&locale=en&layout=compact" alt="louisnguyen1409" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=louisnguyen1409&show_icons=true&theme=dracula&locale=en" alt="louisnguyen1409" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=louisnguyen1409&theme=dark" alt="louisnguyen1409" /></p>
