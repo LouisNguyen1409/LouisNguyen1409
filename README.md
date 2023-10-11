@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nhat Nguyen</h1>
 <h3 align="center">Computer Science @ UNSW</h3>
 
-- 📝 I'm [second-year student.](second-year student.)
+- 📝 I'm a second-year student.
 
-- 🌍 I'm from [Ho Chi Minh city, Vietnam](Ho Chi Minh city, Vietnam)
+- 🌍 I'm from Ho Chi Minh city, Vietnam
 
 - 🧠 I'm learning **BACHELOR OF COMPUTER SCIENCE (ARTIFICIAL INTELLIGENCE)**
 
-- 🌍 I'm based in [Sydney, Australia](Sydney, Australia)
+- 🌍 I'm based in Sydney, Australia
 
 - 📫 How to reach me **ndmn004@gmail.com**
 
