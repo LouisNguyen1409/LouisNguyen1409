@@ -3,7 +3,7 @@
   
   <h1>Nhat Nguyen</h1>
     
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nhat+Nguyen+👋;A+Computer+Science+Student)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nhat+Nguyen+👋;A+Junior+Software+Engineer;A+Computer+Science+Student+at+UNSW;)](https://git.io/typing-svg)
 
 </div>
 
