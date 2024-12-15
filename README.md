@@ -2,9 +2,7 @@
 <div align='center'>
   
   <h1>Nhat Nguyen</h1>
-    
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nhat+Nguyen+👋;Junior+Software+Engineer+👨‍💻;Computer+Science+Student+@+UNSW)](https://git.io/typing-svg)
-
+  &nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nhat+Nguyen+👋;Junior+Software+Engineer+👨‍💻;Computer+Science+Student+@+UNSW)](https://git.io/typing-svg)
 </div>
 
 
