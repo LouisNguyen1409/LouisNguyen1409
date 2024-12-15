@@ -1,8 +1,10 @@
   
 <div align='center'>
-  
+
   <h1>Nhat Nguyen</h1>
-  <span style="padding-left: 10px">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nhat+Nguyen+👋;Junior+Software+Engineer+👨‍💻;Computer+Science+Student+@+UNSW)](https://git.io/typing-svg)</span>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nhat+Nguyen+👋;Junior+Software+Engineer+👨‍💻;Computer+Science+Student+@+UNSW)](https://git.io/typing-svg)
+
 </div>
 
 
