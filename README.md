@@ -49,4 +49,17 @@
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 31 January 2025 - To: 07 February 2025
+
+Total Time: 15 hrs 16 mins
+
+Python        11 hrs 45 mins  ███████████████████▒░░░░░   76.98 %
+JavaScript    1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+YAML          1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Git Config    25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Markdown      16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+```
+
 <!--END_SECTION:waka-->
