@@ -6,13 +6,22 @@
 
 </div>
 
-# Languages
 
-<div align='center'>
+<!--START_SECTION:waka-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisNguyen1409&theme=dark&show_icons=true&layout=compact&langs_count=10)
+```txt
+From: 31 January 2025 - To: 07 February 2025
 
-</div>
+Total Time: 15 hrs 16 mins
+
+Python        11 hrs 45 mins  ███████████████████▒░░░░░   76.98 %
+JavaScript    1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+YAML          1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Git Config    25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Markdown      16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+```
+
+<!--END_SECTION:waka-->
 
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -48,18 +57,4 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-<!--START_SECTION:waka-->
 
-```txt
-From: 31 January 2025 - To: 07 February 2025
-
-Total Time: 15 hrs 16 mins
-
-Python        11 hrs 45 mins  ███████████████████▒░░░░░   76.98 %
-JavaScript    1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-YAML          1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Git Config    25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Markdown      16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-```
-
-<!--END_SECTION:waka-->
