@@ -1,19 +1,16 @@
-  
 <div align='center'>
 
   <h1>Nhat Nguyen</h1>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nhat+Nguyen+👋;Junior+Software+Engineer+👨‍💻;Reseacher+👨‍💻;Computer+Science+Student+@+UNSW)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nhat+Nguyen+👋;Junior+Software+Engineer+👨‍💻;Reseacher+👨‍💻;Computer+Science+Student+@+UNSW)](https://git.io/typing-svg)
 
 </div>
-
-
 
 # Languages
 
 <div align='center'>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisNguyen1409&theme=dark&show_icons=true&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisNguyen1409&theme=dark&show_icons=true&layout=compact&langs_count=10)
 
 </div>
 
@@ -27,12 +24,9 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -54,14 +48,11 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-
-
-
-
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
+
   <img src="https://github-readme-stats.vercel.app/api?username=LouisNguyen1409&show_icons=true&theme=tokyonight" alt="Louis's GitHub stats" style="margin-right: 2rem;">
 
  <img src="https://komarev.com/ghpvc/?username=LouisNguyen1409&label=Profile%20views&color=0e75b6&style=flat" alt="LouisNguyen1409" />
