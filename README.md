@@ -1,8 +1,14 @@
-<div align='center'>
+<div align="center">
 
-  <h1>Nhat Nguyen</h1>
+  <h1 style="font-family: 'Arial Black', sans-serif; font-size: 3.2em; font-weight: bold; color: #FFA500; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);">
+    Nhat Nguyen
+  </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nhat+Nguyen+👋;Junior+Software+Engineer+👨‍💻;Reseacher+👨‍💻;Computer+Science+Student+@+UNSW)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=450&lines=Hi,+I'm+Peter+Tran+👋;Junior+Software+Engineer+👨‍💻;Researcher+👨‍💻;Computer+Science+Student](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nhat+Nguyen+👋;Junior+Software+Engineer+👨‍💻;Reseacher+👨‍💻;Computer+Science+Student+@+UNSW" alt="Typing SVG">
+  </a>
+
+  <br><br>
 
 </div>
 
