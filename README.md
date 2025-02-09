@@ -57,4 +57,7 @@ Git Config    25 mins         ▓░░░░░░░░░░░░░░░�
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
+# 📊 GitHub Stats:
+  <img src="https://github-readme-stats.vercel.app/api?username=LouisNguyen1409&show_icons=true&theme=tokyonight" alt="Louis's GitHub stats" style="margin-right: 2rem;">
 
+ <img src="https://komarev.com/ghpvc/?username=LouisNguyen1409&label=Profile%20views&color=0e75b6&style=flat" alt="LouisNguyen1409" />
