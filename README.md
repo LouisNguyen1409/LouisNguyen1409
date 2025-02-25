@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 style="font-family: 'Arial Black', sans-serif; font-size: 3.2em; font-weight: bold; color: #FFA500; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);">
+  <h1 style="font-family: 'Arial Black', sans-serif; font-size: 3.2em; font-weight: bold; color: #4DFFFF; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);">
     Nhat Nguyen
   </h1>
 
