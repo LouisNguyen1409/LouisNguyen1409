@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2025 - To: 16 March 2025
+From: 10 March 2025 - To: 17 March 2025
 
-Total Time: 8 hrs 36 mins
+Total Time: 8 hrs 15 mins
 
-Python     5 hrs 55 mins   █████████████████░░░░░░░░   68.53 %
-TeX        2 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
-Markdown   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Text       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-YAML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Python     5 hrs 55 mins   ██████████████████░░░░░░░   71.44 %
+TeX        1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
+Markdown   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Text       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+YAML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
