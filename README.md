@@ -4,9 +4,7 @@
     Nhat Nguyen
   </h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4DFFFF&center=true&vCenter=true&width=450&lines=Hi,+I'm+Nhat+Nguyen+👋;AI+Engineer+👨‍💻;AI+Researcher+🤖;Computer+Science+Student+👨‍🎓" alt="Typing SVG">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F7E4&background=FFF63900&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nhat+Nguyen+%F0%9F%91%8B;AI+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;AI+Researcher+%F0%9F%A4%96;Casual+Academic+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Advanced+Computer+Science+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" /></a>
 
   <br><br>
 
