@@ -14,13 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2025 - To: 22 April 2025
+From: 16 April 2025 - To: 23 April 2025
 
-Total Time: 1 hr 22 mins
+Total Time: 2 hrs 12 mins
 
-TeX       53 mins         ████████████████░░░░░░░░░   64.63 %
-Tcl       25 mins         ███████▓░░░░░░░░░░░░░░░░░   30.28 %
-Gnuplot   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+TeX       53 mins         ██████████░░░░░░░░░░░░░░░   40.36 %
+Python    31 mins         ██████░░░░░░░░░░░░░░░░░░░   23.53 %
+Tcl       25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+Text      18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Gnuplot   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
