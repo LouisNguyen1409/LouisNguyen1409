@@ -14,14 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2025 - To: 12 May 2025
+From: 06 May 2025 - To: 13 May 2025
 
-Total Time: 18 mins
+Total Time: 0 secs
 
-YAML         15 mins         █████████████████████▓░░░   86.88 %
-Docker       1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
