@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-Total Time: 1 hr 16 mins
+Total Time: 19 mins
 
-Markdown   56 mins         ██████████████████▓░░░░░░   74.09 %
-Bash       13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
-C          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Docker     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Bash       13 mins         █████████████████░░░░░░░░   67.96 %
+C          4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
+Makefile   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Docker     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Solidity   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
