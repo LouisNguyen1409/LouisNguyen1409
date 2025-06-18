@@ -14,14 +14,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
-Total Time: 5 hrs 29 mins
+Total Time: 5 hrs 30 mins
 
-Solidity     2 hrs 15 mins   ██████████▒░░░░░░░░░░░░░░   40.91 %
-JavaScript   1 hr 18 mins    ██████░░░░░░░░░░░░░░░░░░░   23.67 %
-Text         49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-Python       30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+Solidity     2 hrs 15 mins   ██████████▒░░░░░░░░░░░░░░   40.87 %
+JavaScript   1 hr 18 mins    ██████░░░░░░░░░░░░░░░░░░░   23.71 %
+Text         49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Python       30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
 Bash         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 ```
 
