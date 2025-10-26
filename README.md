@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2025 - To: 24 October 2025
+From: 18 October 2025 - To: 25 October 2025
 
-Total Time: 7 hrs 5 mins
+Total Time: 8 hrs 52 mins
 
-TeX          3 hrs 34 mins   ████████████▒░░░░░░░░░░░░   49.67 %
-Python       1 hr 56 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
-Bash         50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-JavaScript   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+TeX          4 hrs 39 mins   █████████████░░░░░░░░░░░░   51.80 %
+Python       2 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+Bash         50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+JavaScript   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
