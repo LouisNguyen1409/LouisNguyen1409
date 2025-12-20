@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2025 - To: 18 December 2025
+From: 12 December 2025 - To: 19 December 2025
 
-Total Time: 9 hrs 40 mins
+Total Time: 10 hrs 34 mins
 
-Python       4 hrs 5 mins    ██████████░░░░░░░░░░░░░░░   39.34 %
-Markdown     2 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   23.91 %
-TeX          45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-Other        42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-JSON         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Python       4 hrs 5 mins    █████████░░░░░░░░░░░░░░░░   36.24 %
+Markdown     3 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.66 %
+TeX          1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Other        42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+JSON         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 ```
 
 <!--END_SECTION:waka-->
