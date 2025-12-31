@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
 Total Time: 2 hrs 37 mins
 
-Python       1 hr 1 min      █████████▓░░░░░░░░░░░░░░░   38.36 %
-C++          46 mins         ███████▒░░░░░░░░░░░░░░░░░   28.92 %
-Markdown     41 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
+Python       1 hr 1 min      █████████▓░░░░░░░░░░░░░░░   38.41 %
+C++          46 mins         ███████▒░░░░░░░░░░░░░░░░░   28.95 %
+Markdown     41 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
 Bash         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
