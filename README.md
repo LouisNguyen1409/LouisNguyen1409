@@ -14,14 +14,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2025 - To: 02 January 2026
+From: 27 December 2025 - To: 03 January 2026
 
-Total Time: 2 hrs
+Total Time: 1 hr 59 mins
 
-Python     57 mins         ███████████▓░░░░░░░░░░░░░   46.57 %
-C++        43 mins         ████████▓░░░░░░░░░░░░░░░░   35.08 %
-Markdown   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Bash       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Python     57 mins         ███████████▓░░░░░░░░░░░░░   46.61 %
+C++        43 mins         ████████▓░░░░░░░░░░░░░░░░   35.11 %
+Markdown   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Bash       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 Other      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
