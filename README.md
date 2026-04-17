@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2026 - To: 15 April 2026
+From: 09 April 2026 - To: 16 April 2026
 
-Total Time: 7 hrs 6 mins
+Total Time: 5 hrs 39 mins
 
-Markdown     4 hrs 52 mins         █████████████░░░░░░░░░░░░   52.09 %
-Other        2 hrs 15 mins         ██████░░░░░░░░░░░░░░░░░░░   24.18 %
-TypeScript   53 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
-Python       24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Bash         23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Markdown     4 hrs 59 mins         █████████████████░░░░░░░░   68.14 %
+Other        1 hr 39 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
+Bash         23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Python       8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Git Config   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
